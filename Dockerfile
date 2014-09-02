@@ -24,4 +24,3 @@ RUN apt-get install -y wget
 RUN cd /aoetemp && wget http://support.coraid.com/support/linux/aoe6-85.tar.gz
 RUN cd /aoetemp && tar zxvf aoe6-85.tar.gz
 RUN cd /aoetemp/aoe6-85 && make && make install
-RUN modprobe aoe
