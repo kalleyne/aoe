@@ -1,4 +1,4 @@
-Ubuntu 14.04.1 LTS with AoE initiator. Block level Storage Area Network (SAN) initiator based on the ATA over Ethernet (AoE) protocol.
+Ubuntu 14.04.1 LTS with AoE driver/initiator. Block level Storage Area Network (SAN) driver/initiator based on the ATA over Ethernet (AoE) protocol.
 
 Usage:
 
