@@ -1,10 +1,10 @@
-# This is a Dockerfile to install the ATA over Ethernet (AoE) driver/initiator on Ubuntu 10.04
+# This is a Dockerfile to install the ATA over Ethernet (AoE) driver/initiator on Ubuntu 14.10
 #
 # VERSION 0.1
 
-# Use Ubuntu 10.04 image provided by docker.com
+# Use Ubuntu 14.10 image provided by docker.com
 
-FROM ubuntu:10.04
+FROM ubuntu:14.10
 MAINTAINER Keri Alleyne <k.alleyne@symlogix.com>
 
 
